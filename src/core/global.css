@@ -39,8 +39,8 @@
 }
 
 :root {
-    --primary-highlight: #74259c;
-    --secondary-highlight: #592bb5;
+    --primary-highlight: #000000;
+    --secondary-highlight: #000000;
 
     --primary-highlight-light: #912fc2;
     --secondary-highlight-light: #6c35db;
@@ -48,8 +48,8 @@
     --primary-highlight-lighter: #ab4bdb;
     --secondary-highlight-lighter: #8953f5;
 
-    --primary-background: #12171c;
-    --secondary-background: #180f1c;
+    --primary-background: #00FFFF;
+    --secondary-background: #00FFFF;
 
     --error: #b53e3e;
 }
